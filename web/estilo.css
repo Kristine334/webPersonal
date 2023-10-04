@@ -2,9 +2,16 @@ html {
     background-color: #deded8;
     font-family: trebuchet, geneva, sans-serif;
   }
-  body {
+  body  {
+    background-image: url("./imagenes/principal.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    background-position: center;
     margin: 0;
-  }
+   }
+   
+  
   article, aside, footer, header {
     padding: 0.5rem;
     box-sizing: border-box;
